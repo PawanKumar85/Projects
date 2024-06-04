@@ -1,4 +1,4 @@
-const Tech = ({tech}) => {
+const Tech = () => {
   return (
     <div className="text-warning mt-5">
       <h3>Technology used :</h3>
