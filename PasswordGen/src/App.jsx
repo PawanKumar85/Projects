@@ -6,7 +6,7 @@ const App = () => {
     <>
     <Header text="Password Generator"/>
     <Password/>
-    <Tech text="React"/>
+    <Tech/>
     </>
   );
 }
